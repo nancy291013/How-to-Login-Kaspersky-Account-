@@ -1,4 +1,4 @@
-How to Login Kaspersky Account
+How to Login Kaspersky Account?
 =============================
   .. toctree::
    :maxdepth: 2
@@ -7,7 +7,8 @@ How to Login Kaspersky Account
 
 In today's digital world, it's important to keep your devices safe. Kaspersky offers a complete platform for keeping your personal information secure and protecting you from cyber threats. Users must log into their own Kaspersky account to use all of its features. This guide provides a clear, step-by-step walkthrough for accessing your Kaspersky account and troubleshooting common issues.
 
-    .. image:: click-login.png
+    
+.. image:: click-login.png
    :alt: My Project Logo
    :width: 400px
    :align: center
